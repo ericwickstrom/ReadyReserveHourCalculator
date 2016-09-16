@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReadyReserveHourCalculator</string>
+    <string name="label_total">Total</string>
+</resources>
